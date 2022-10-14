@@ -142,6 +142,7 @@
     "@antfu/eslint-config": "^0.27.0",
     "@iconify/json": "^2.1.115",
     "@iconify/types": "^2.0.0",
+    "@nuxt/kit": "3.0.0-rc.11",
     "@svgr/core": "^6.3.1",
     "@types/debug": "^4.1.7",
     "@types/node": "^18.7.23",
